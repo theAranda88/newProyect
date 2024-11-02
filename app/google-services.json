@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1025975080409",
+    "project_id": "bdfirebase-cae48",
+    "storage_bucket": "bdfirebase-cae48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025975080409:android:fc3e82ff3ca2fc6fe3f5c8",
+        "android_client_info": {
+          "package_name": "com.example.bdfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjK7BvUHIA_anOaCEZYTBm6xUBmInNAng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
